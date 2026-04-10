@@ -7,6 +7,6 @@
         "node": "24.x"
     },
     "scripts": {
-        "dey":"vercel dev",
+        "dev":"vercel dev"
     }
 }
